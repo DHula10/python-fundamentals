@@ -1,0 +1,11 @@
+product_id,product_name,category,base_price,shipping_cost,warranty_fee,rating,stock_clearance
+1,Pro Ultra Laptop,Laptops,1200.0,15.0,50.0,4.8,
+2,Lite Slim Laptop,Laptops,650.0,15.0,30.0,4.2,
+3,Gamer Headset X,Audio,85.0,5.0,10.0,4.5,
+4,Wireless Earbuds,Audio,45.0,5.0,5.0,3.9,
+5,4K Studio Monitor,Displays,420.0,20.0,25.0,,
+6,Curved Gaming Screen,Displays,310.0,20.0,20.0,4.6,
+7,Mechanical Keyboard,Peripherals,110.0,5.0,10.0,4.7,
+8,Ergonomic Mouse,Peripherals,60.0,5.0,5.0,,
+9,USB-C Multi Dock,Peripherals,75.0,5.0,5.0,4.1,
+10,Noise Cancelling Headphones,Audio,230.0,8.0,15.0,4.9,
